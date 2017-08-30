@@ -1,5 +1,5 @@
-require "./lib/dockingstation"
+# require "./lib/dockingstation"
 
-  describe 'DockingStation' do
+  describe DockingStation do
 
   end
